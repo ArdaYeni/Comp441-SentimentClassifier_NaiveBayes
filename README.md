@@ -76,9 +76,4 @@ The probability of a document is given by:
 
 ---
 
-## How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
